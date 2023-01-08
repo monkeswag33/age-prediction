@@ -9,5 +9,5 @@ python3 ./preprocessing.py
 ```
 
 ## Training and Testing
-You can train the model by running the file `train.py`
+You can train the model by running the file `train.py`  
 Testing can be done by running `test.py <image filename>`
